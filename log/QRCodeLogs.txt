@@ -1,0 +1,27 @@
+3/4/2022 10:13:12 PM
+Name: James Noah Santos
+Age: 23
+Gender: Male
+Address: Ambrosia Moonwalk Paranaque
+Contact Number: 12345678
+
+3/4/2022 10:13:37 PM
+Name: Maria Clara
+Age: 110
+Gender: Female
+Address: Manila City, Philippines
+Contact Number: 0911111111
+
+3/4/2022 10:14:01 PM
+Name: James Noah Santos
+Age: 23
+Gender: Male
+Address: Ambrosia Moonwalk Paranaque
+Contact Number: 12345678
+
+3/4/2022 10:14:43 PM
+Name: Maria Clara
+Age: 110
+Gender: Female
+Address: Manila City, Philippines
+Contact Number: 0911111111
